@@ -1,4 +1,4 @@
-My ECHO — Intelligent Journaling & Behavioral Analytics Platform
+My ECHO - Intelligent Journaling & Behavioral Analytics Platform
 
 My ECHO is an AI-powered reflective journaling system that transforms unstructured daily thoughts into structured emotional and behavioral insights.
 
