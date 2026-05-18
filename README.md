@@ -4,7 +4,7 @@ My ECHO is an AI-powered reflective journaling system that transforms unstructur
 
 The platform combines natural language processing, behavioral pattern analysis, and data visualization to help users understand emotional trends, recurring themes, and relationship influences in their life.
 
-Designed as a full-stack AI-enabled application, ReflectAI integrates a Flutter mobile interface with a Python-based analytical backend to generate actionable personal insights from journal entries.
+Designed as a full-stack AI-enabled application, My ECHO integrates a Flutter mobile interface with a Python-based analytical backend to generate actionable personal insights from journal entries.
 
 
 ---
